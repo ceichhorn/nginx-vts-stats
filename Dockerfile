@@ -1,5 +1,5 @@
-FROM paas-docker-artifactory.gannettdigital.com/paas-centos7-base:latest
-MAINTAINER PaaS-Delivery <paas-delivery@gannett.com>
+FROM centos7-base:latest
+MAINTAINER me@you.com>
 
 ENV NGINX_VERSION 1.11.3-1.el7.centos.ngx
 
